@@ -1,1 +1,1 @@
-# STUDY-ORGANIZER-1
+# study-organizer-project-1
