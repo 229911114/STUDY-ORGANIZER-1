@@ -1,1 +1,3 @@
-
+What it's for: For my part of the project, I built the Task Manager so students can easily track, organize, and manage their homework and assignments right from the terminal.
+What I did: I created a TaskManager class using Python loops, functions, and error handling. I also integrated it with our team's shared storage.py module to safely read and write data.
+What it does: My code lets users view tasks, add new ones, mark them complete, and delete them. It also automatically saves everything to our JSON file and re-numbers the task IDs so the list always stays clean.
