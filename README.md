@@ -287,7 +287,7 @@ def view_notes():
         task_manager.add_task(desc)
   -It keeps the  user interface clean, logical, and easy to navigate directly inside the  terminal.
             
-
+To run or bash the code, type "python main.py" in the terminal, then multiple choices such as, "
             
 
             
