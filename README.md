@@ -286,8 +286,13 @@ def view_notes():
         desc = input("Enter task description: ")
         task_manager.add_task(desc)
   -It keeps the  user interface clean, logical, and easy to navigate directly inside the  terminal.
+
             
-To run or bash the code, type "python main.py" in the terminal, then multiple choices such as, "
+-To run or bash the code, type "python main.py" in the terminal, then multiple choices such as, "manage assignments", "manage tasks", "manage schedule" and more , where it expands into more detai in each corresponding choice.
+-Youll be presented by 5 choices, each with a dedicated number , thats how youll control it.
+-Lets say you chose to manage tasks, you can then add tasks, view, edit, or even delete the task(s), and each time you add one, it gets an ID number so you can easily navigate through your decisions , if you want to delete or edit.
+
+
             
 
             
